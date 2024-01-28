@@ -25,4 +25,6 @@ eastmoney. (2024). Xin Gu Ba. [Social Media](https://guba.eastmoney.com/list,xg.
 
 Investing. (2024). Ftse China A50. [Choice](https://cn.investing.com/indices/ftse-china-a50)
 
+Azure OpenAI. (2024). Duke Kunshan University ChatGPT. Duke Kunshan University ChatGPT
+
 Whimsical. (2024). https://whimsical.com/

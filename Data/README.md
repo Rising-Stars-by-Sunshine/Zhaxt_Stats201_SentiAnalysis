@@ -9,9 +9,13 @@ Investing is a comprehensive and widely-used financial database that provides a 
 ### Variables
 #### Ftse China A50 Index (FTXIN9)
 Definition: a description of stock market in China
+
 Frequency: daily
+
 Range: 2023_10_28 - 2024_01_28
+
 Unit: CNY
+
 File type: csv
 
 ### Reference

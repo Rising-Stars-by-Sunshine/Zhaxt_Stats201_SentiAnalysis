@@ -18,6 +18,8 @@ Unit: CNY
 
 File type: csv
 
+<img src="data_structure.png" width=400>
+
 ### Reference
 eastmoney. (2024). Xin Gu Ba. [Social Media](https://guba.eastmoney.com/list,xg.html)
 

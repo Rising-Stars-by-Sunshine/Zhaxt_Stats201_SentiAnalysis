@@ -24,3 +24,5 @@ File type: csv
 eastmoney. (2024). Xin Gu Ba. [Social Media](https://guba.eastmoney.com/list,xg.html)
 
 Investing. (2024). Ftse China A50. [Choice](https://cn.investing.com/indices/ftse-china-a50)
+
+Whimsical. (2024). https://whimsical.com/

@@ -1,6 +1,6 @@
 ## Sentiment Analysis on Chinese Stock Market by New Stocks
 ### Introduction
-In this repository, an idea of apply sentiment anaylsis on Chinese stock market from new stocks are presented. Understanding and predicting market sentiment can contribute to improved risk management, investment decision-making, and financial stability.
+In this repository, an idea of apply sentiment anaylsis on Chinese stock market from new stocks are presented. Due to the large population of China, it seems hard to understand the sentiment of all the investors. In this project, we hope to have a general look and predict market sentiment of "A-Stock" in China.
 
 ### Contents
 1. Literature

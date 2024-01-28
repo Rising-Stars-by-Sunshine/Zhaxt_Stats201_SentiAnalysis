@@ -7,7 +7,7 @@ Using social media as a database for sentiment analysis can be highly beneficial
 Investing is a comprehensive and widely-used financial database that provides a wide range of financial information and tools for investors and financial professionals. It offers detailed stock quotes, historical stock data, financial news, and analysis for a wide range of companies and industries. Additionally, Investing provides tools for portfolio tracking, stock screening, and interactive charting, making it a valuable resource for anyone looking to stay informed and make informed financial decisions.
 
 ### Variables
-#### Ftse China A50 Index (FTXIN9)
+#### FTSE China A50 Index (FTXIN9)
 Definition: a description of stock market in China
 
 Frequency: daily

@@ -2,10 +2,10 @@
 
 ### Data query
 #### eastmoney 
-Crawled in python
+Data from eastmoney are crawled on python. The url is reached and the content of website is requested. Then all needed text in Chinese are collected and saved locally.
 
 #### Investing
-Directly downloaded.
+Data from Investing are directly downloaded. On the webiste of FTSE China A50, the history data of the index can be reached. After time duration is chosen, there are bottom to download all data needed.
 
 <img src="code_steps.png" width=400>
 
